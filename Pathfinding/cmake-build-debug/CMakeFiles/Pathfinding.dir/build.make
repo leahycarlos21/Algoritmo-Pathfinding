@@ -43,10 +43,10 @@ RM = /usr/clion-2018.1.5/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding"
+CMAKE_SOURCE_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Pathfinding.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Pathfinding.dir/flags.make
 
 CMakeFiles/Pathfinding.dir/main.cpp.o: CMakeFiles/Pathfinding.dir/flags.make
 CMakeFiles/Pathfinding.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Pathfinding.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/main.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Pathfinding.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/main.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/main.cpp"
 
 CMakeFiles/Pathfinding.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pathfinding.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/main.cpp" > CMakeFiles/Pathfinding.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/main.cpp" > CMakeFiles/Pathfinding.dir/main.cpp.i
 
 CMakeFiles/Pathfinding.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pathfinding.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/main.cpp" -o CMakeFiles/Pathfinding.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/main.cpp" -o CMakeFiles/Pathfinding.dir/main.cpp.s
 
 CMakeFiles/Pathfinding.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Pathfinding.dir/main.cpp.o.provides.build: CMakeFiles/Pathfinding.dir
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o: CMakeFiles/Pathfinding.dir/flags.make
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o: ../Algoritmo\ AStar/MapSearchNode.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/MapSearchNode.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/Algoritmo AStar/MapSearchNode.cpp"
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/MapSearchNode.cpp" > CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/Algoritmo AStar/MapSearchNode.cpp" > CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.i
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/MapSearchNode.cpp" -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/Algoritmo AStar/MapSearchNode.cpp" -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.s
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/Pathfinding.dir/Algoritmo_AStar/MapSearchNode.cpp.o.provides.build: C
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o: CMakeFiles/Pathfinding.dir/flags.make
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o: ../Algoritmo\ AStar/execAStar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/execAStar.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/Algoritmo AStar/execAStar.cpp"
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/execAStar.cpp" > CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/Algoritmo AStar/execAStar.cpp" > CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.i
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/execAStar.cpp" -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/Algoritmo AStar/execAStar.cpp" -o CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.s
 
 CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o.provides.build: CMake
 
 CMakeFiles/Pathfinding.dir/globalArray.cpp.o: CMakeFiles/Pathfinding.dir/flags.make
 CMakeFiles/Pathfinding.dir/globalArray.cpp.o: ../globalArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Pathfinding.dir/globalArray.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/globalArray.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Pathfinding.dir/globalArray.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Pathfinding.dir/globalArray.cpp.o -c "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/globalArray.cpp"
 
 CMakeFiles/Pathfinding.dir/globalArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pathfinding.dir/globalArray.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.cpp" > CMakeFiles/Pathfinding.dir/globalArray.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/globalArray.cpp" > CMakeFiles/Pathfinding.dir/globalArray.cpp.i
 
 CMakeFiles/Pathfinding.dir/globalArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pathfinding.dir/globalArray.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.cpp" -o CMakeFiles/Pathfinding.dir/globalArray.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/globalArray.cpp" -o CMakeFiles/Pathfinding.dir/globalArray.cpp.s
 
 CMakeFiles/Pathfinding.dir/globalArray.cpp.o.requires:
 
@@ -169,7 +169,7 @@ Pathfinding: CMakeFiles/Pathfinding.dir/Algoritmo_AStar/execAStar.cpp.o
 Pathfinding: CMakeFiles/Pathfinding.dir/globalArray.cpp.o
 Pathfinding: CMakeFiles/Pathfinding.dir/build.make
 Pathfinding: CMakeFiles/Pathfinding.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Pathfinding"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Pathfinding"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Pathfinding.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -189,6 +189,6 @@ CMakeFiles/Pathfinding.dir/clean:
 .PHONY : CMakeFiles/Pathfinding.dir/clean
 
 CMakeFiles/Pathfinding.dir/depend:
-	cd "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug/CMakeFiles/Pathfinding.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug/CMakeFiles/Pathfinding.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Pathfinding.dir/depend
 

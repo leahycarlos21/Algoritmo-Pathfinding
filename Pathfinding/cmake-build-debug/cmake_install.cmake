@@ -1,4 +1,4 @@
-# Install script for directory: /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding
+# Install script for directory: /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Algoritmos/Algoritmo Pathfinding/Algoritmo-Pathfinding/Pathfinding/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
