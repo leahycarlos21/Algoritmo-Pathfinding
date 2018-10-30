@@ -31,9 +31,6 @@ void execAStar::solution(MapSearchNode nodeStart, MapSearchNode nodeEnd) {
 
             MapSearchNode *node = astarsearch.GetSolutionStart();
 
-#if DISPLAY_SOLUTION
-            cout << "Displaying solution\n";
-#endif
             int steps = 0;
 
             node->PrintNodeInfo();

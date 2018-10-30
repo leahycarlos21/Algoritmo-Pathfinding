@@ -28,10 +28,9 @@ bool MapSearchNode::IsSameState(MapSearchNode &rhs) {
 }
 
 void MapSearchNode::PrintNodeInfo() {
-    char str[100];
-    sprintf(str, "Posicion : (%d,%d)\n", x, y);
+
+
     global::positions.push_back(coordinate(x, y));
-    cout << str;
 }
 
 
