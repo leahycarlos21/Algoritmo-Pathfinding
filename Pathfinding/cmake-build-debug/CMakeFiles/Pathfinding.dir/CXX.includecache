@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/AStarSearch.h
+iostream
+-
+stdio.h
+-
+assert.h
+-
+algorithm
+-
+set
+-
+vector
+-
+cfloat
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/MapSearchNode.cpp
+MapSearchNode.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/MapSearchNode.h
+../globalArray.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/MapSearchNode.h
+iostream
+-
+stdio.h
+-
+math.h
+-
+AStarSearch.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/AStarSearch.h
+../coordinate.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/coordinate.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/execAStar.cpp
+execAStar.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/execAStar.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/execAStar.h
+MapSearchNode.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/MapSearchNode.h
+../coordinate.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/coordinate.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/coordinate.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.cpp
+globalArray.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.h
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.h
+coordinate.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/coordinate.h
+iostream
+-
+stdio.h
+-
+math.h
+-
+vector
+-
+
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/main.cpp
+iostream
+-
+Algoritmo AStar/execAStar.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/Algoritmo AStar/execAStar.h
+globalArray.h
+/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/globalArray.h
+

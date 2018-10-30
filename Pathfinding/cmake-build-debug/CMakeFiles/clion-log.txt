@@ -1,0 +1,4 @@
+/usr/clion-2018.1.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/leahycarlos21/Documents/ITCR/II Semestre 2018/Algoritmos y Estructuras de Datos II/Proyectos CE/Proyecto II/A* Star/Pathfinding/cmake-build-debug
